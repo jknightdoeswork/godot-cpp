@@ -1,4 +1,4 @@
-GENERATE_BINDINGS = no
+GENERATE_BINDINGS = yes
 HEADERS = godot_headers
 TARGET = debug
 USE_CLANG = no
